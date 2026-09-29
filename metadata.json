@@ -1,0 +1,6 @@
+{
+  "name": "Aura Stay - Nordic Sanctuaries",
+  "description": "Curated architectural sanctuaries and boutique hotels for mindful travelers seeking restorative design and quiet wilderness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
